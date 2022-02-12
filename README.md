@@ -2,7 +2,7 @@
 
 ```python
 Name = "Bikram Ghuku"
-Interests = ["Programming", "Game Development"]
+Interests = ["Programming", "Game Development", "Gamming"]
 Languages = ["Python", "C++", "C", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
 ```
 ### Connect with me:
