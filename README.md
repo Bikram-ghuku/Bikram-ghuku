@@ -1,8 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Bikram-ghuku/Bikram-ghuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+Name = "Bikram Ghuku"
+Interests = ["Programming", "Game Development"]
+Languages = ["Python", "C++", "C", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
+```
+### Connect with me:
+<div align=left>
 
+<a href="https://twitter.com/BikramGhuku" alt="@BikramGhuku twitter"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" ></a> &nbsp;
+<a href="https://www.linkedin.com/in/bikram-ghuku-32b952170/" alt="Bikram Ghuku | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="https://www.instagram.com/bikramghuku05/" alt="bikramghuku05 | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
+</div>
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
