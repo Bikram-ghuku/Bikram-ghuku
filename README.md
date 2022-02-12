@@ -14,10 +14,10 @@ Languages = ["Python", "C++", "C", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
 </div>
 
 ### Github Stats:
-
+<div align=center>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bikram-ghuku&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&dates=FFCE18)](https://git.io/streak-stats)
 
-
+</div>
 ### Tech Stack:
 <div align=center>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
