@@ -13,7 +13,7 @@ Languages = ["Python", "C++", "C", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
 <a href="https://www.instagram.com/bikramghuku05/" alt="bikramghuku05 | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bikram-ghuku)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bikram-ghuku&theme=gruvbox&hide_border=true&fire=fcce00&ring=fcce00)](https://git.io/streak-stats)
 <!--
 Here are some ideas to get you started:
 
