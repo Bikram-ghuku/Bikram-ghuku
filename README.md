@@ -16,13 +16,13 @@ Languages = ["Python", "C++", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
 ### Github Stats:
 <div align=center>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bikram-ghuku&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bikram-ghuku&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 ### Github contribution stats:
 <div align=center>
   
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Bikram-ghuku&count_private=true&icon_color=07a312&hide_title=true&hide_border=true&show_icons=true&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Bikram-ghuku&count_private=true&icon_color=07a312&hide_title=true&hide_border=true&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 </div>
