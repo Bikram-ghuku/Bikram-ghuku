@@ -20,7 +20,7 @@ Languages = ["Python", "C++", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
 </div>
 
 ### Github contribution stats:
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Bikram-ghuku&count_private=true&icon_color=07a312&hide_title=true&hide_border=true&show_icons=true&theme=react)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Bikram-ghuku&count_private=true&icon_color=07a312&hide_title=true&hide_border=true&show_icons=true&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ### Tech Stack:
 <div align=center>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
