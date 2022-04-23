@@ -21,7 +21,9 @@ Languages = ["Python", "C++", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
 
 ### Github contribution stats:
 <div align=center>
+  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Bikram-ghuku&count_private=true&icon_color=07a312&hide_title=true&hide_border=true&show_icons=true&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  
 </div>
 ### Tech Stack:
 <div align=center>
