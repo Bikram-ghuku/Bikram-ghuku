@@ -13,9 +13,12 @@ Languages = ["Python", "C++", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
 <a href="https://www.instagram.com/bikramghuku05/" alt="bikramghuku05 | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
 </div>
 <div align=center>
+ 
+  ```Github streak```
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bikram-ghuku&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+  ```Github stats```
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Bikram-ghuku&count_private=true&icon_color=07a312&hide_border=true&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
