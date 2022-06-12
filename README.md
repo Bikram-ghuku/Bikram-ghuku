@@ -20,7 +20,9 @@ Languages = ["Python", "C++", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Bikram-ghuku&count_private=true&icon_color=07a312&hide_border=true&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ```Github achievements```
-[![Github Stats](https://github-profile-trophy.vercel.app/?username=bikram-ghuku&theme=tokyonight)](https://github.com/Bikram-ghuku)
+  
+  
+[![Github Stats](https://github-profile-trophy.vercel.app/?username=bikram-ghuku&theme=tokyonight&columns=9)](https://github.com/Bikram-ghuku)
 </div>
 
 <div align=center>
