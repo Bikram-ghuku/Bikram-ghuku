@@ -20,7 +20,7 @@ Languages = ["Python", "C++", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
 
   ```Github stats```
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Bikram-ghuku&count_private=true&icon_color=07a312&hide_border=true&show_icons=true&theme=tokyonight&no-bg=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bikram-ghuku&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ```Github achievements```
   
