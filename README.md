@@ -2,8 +2,8 @@
 
 ```python
 Name = "Bikram Ghuku"
-Interests = ["Programming", "Game Development", "Gamming"]
-Languages = ["Python", "C++", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
+Interests = ["Web Development"]
+Languages = ["Python", "C++", "HTML", "CSS", "PHP", "SQL", "JavaScript", "C"]
 ```
 ### Connect with me:
 <div align=center>
@@ -36,6 +36,5 @@ Languages = ["Python", "C++", "HTML", "CSS", "PHP", "SQL", "JavaScript"]
   <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="Github" >
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >
-  <img src="https://img.icons8.com/color/50/000000/unreal-engine.png" title="Unreal Engine">
   <img src="https://img.icons8.com/color/48/000000/arduino.png" title="Arduino">
 </div>
