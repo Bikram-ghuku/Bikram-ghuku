@@ -2,7 +2,7 @@
 
 ```python
 Name = "Bikram Ghuku"
-Interests = ["Web Development", "DevOps"]
+Interests = ["Web Development", "DevOps", "Machine learning"]
 ```
 ### Connect with me:
 <div align=center>
