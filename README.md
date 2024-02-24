@@ -61,6 +61,6 @@ Interests = ["Web Development", "DevOps", "Machine learning"]
 
 ```Top Languages```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikram-ghuku&langs_count=5&hide_progress=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikram-ghuku&langs_count=5&layout=compact&theme=tokyonight)
 
 </div>
