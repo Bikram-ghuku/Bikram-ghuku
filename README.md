@@ -59,4 +59,8 @@ Interests = ["Web Development", "DevOps", "Machine learning"]
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%326ced5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+```Top Languages```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bikram-ghuku&langs_count=5&hide_progress=true&theme=tokyonight)
+
 </div>
