@@ -34,3 +34,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#17](https://github.com/Bikram-ghuku/ecommerce_client/issues/17) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+2. ❗ Opened issue [#16](https://github.com/Bikram-ghuku/ecommerce_client/issues/16) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+3. ❗ Opened issue [#15](https://github.com/Bikram-ghuku/ecommerce_client/issues/15) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+4. 🎉 Merged PR [#12](https://github.com/Bikram-ghuku/ecommerce_client/pull/12) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+5. 🎉 Merged PR [#11](https://github.com/Bikram-ghuku/ecommerce_client/pull/11) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+<!--END_SECTION:activity-->
