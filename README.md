@@ -34,9 +34,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Bikram-ghuku/ecommerce_client/pull/13) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
-2. 🎉 Merged PR [#14](https://github.com/Bikram-ghuku/ecommerce_client/pull/14) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
-3. ❗ Opened issue [#17](https://github.com/Bikram-ghuku/ecommerce_client/issues/17) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
-4. ❗ Opened issue [#16](https://github.com/Bikram-ghuku/ecommerce_client/issues/16) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
-5. ❗ Opened issue [#15](https://github.com/Bikram-ghuku/ecommerce_client/issues/15) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+1. 🎉 Merged PR [#1](https://github.com/Bikram-ghuku/nQuest/pull/1) in [Bikram-ghuku/nQuest](https://github.com/Bikram-ghuku/nQuest)
+2. 🎉 Merged PR [#13](https://github.com/Bikram-ghuku/ecommerce_client/pull/13) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+3. 🎉 Merged PR [#14](https://github.com/Bikram-ghuku/ecommerce_client/pull/14) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+4. ❗ Opened issue [#17](https://github.com/Bikram-ghuku/ecommerce_client/issues/17) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+5. ❗ Opened issue [#16](https://github.com/Bikram-ghuku/ecommerce_client/issues/16) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
 <!--END_SECTION:activity-->
