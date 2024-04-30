@@ -12,6 +12,8 @@
 - 💬 Ask me about **react.js, Javascript, Python**
 
 - 📫 How to reach me **bikramghuku05@gmail.com**
+  
+- 🏫 Pursuing CSE from **Indian Institute of Technology, Kharagpur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
