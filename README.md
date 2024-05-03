@@ -36,9 +36,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1 Beta testing release](https://github.com/Bikram-ghuku/ChatSyncServer/releases/tag/v0.1) in [Bikram-ghuku/ChatSyncServer](https://github.com/Bikram-ghuku/ChatSyncServer)
-2. 🚀 Published release [Beta testing version](https://github.com/Bikram-ghuku/chatSyncWeb/releases/tag/v0.1) in [Bikram-ghuku/chatSyncWeb](https://github.com/Bikram-ghuku/chatSyncWeb)
-3. 🎉 Merged PR [#1](https://github.com/Bikram-ghuku/nQuest/pull/1) in [Bikram-ghuku/nQuest](https://github.com/Bikram-ghuku/nQuest)
-4. 🎉 Merged PR [#13](https://github.com/Bikram-ghuku/ecommerce_client/pull/13) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
-5. 🎉 Merged PR [#14](https://github.com/Bikram-ghuku/ecommerce_client/pull/14) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+1. 🎉 Merged PR [#1](https://github.com/Bikram-ghuku/chatSyncWeb/pull/1) in [Bikram-ghuku/chatSyncWeb](https://github.com/Bikram-ghuku/chatSyncWeb)
+2. 🚀 Published release [v0.1 Beta testing release](https://github.com/Bikram-ghuku/ChatSyncServer/releases/tag/v0.1) in [Bikram-ghuku/ChatSyncServer](https://github.com/Bikram-ghuku/ChatSyncServer)
+3. 🚀 Published release [Beta testing version](https://github.com/Bikram-ghuku/chatSyncWeb/releases/tag/v0.1) in [Bikram-ghuku/chatSyncWeb](https://github.com/Bikram-ghuku/chatSyncWeb)
+4. 🎉 Merged PR [#1](https://github.com/Bikram-ghuku/nQuest/pull/1) in [Bikram-ghuku/nQuest](https://github.com/Bikram-ghuku/nQuest)
+5. 🎉 Merged PR [#13](https://github.com/Bikram-ghuku/ecommerce_client/pull/13) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
 <!--END_SECTION:activity-->
