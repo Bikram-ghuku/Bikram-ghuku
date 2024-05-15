@@ -36,9 +36,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku)
-2. 💪 Opened PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku)
-3. 🎉 Merged PR [#16](https://github.com/Bikram-ghuku/SyncChatWeb/pull/16) in [Bikram-ghuku/SyncChatWeb](https://github.com/Bikram-ghuku/SyncChatWeb)
-4. 💪 Opened PR [#16](https://github.com/Bikram-ghuku/SyncChatWeb/pull/16) in [Bikram-ghuku/SyncChatWeb](https://github.com/Bikram-ghuku/SyncChatWeb)
-5. 🎉 Merged PR [#15](https://github.com/Bikram-ghuku/SyncChatWeb/pull/15) in [Bikram-ghuku/SyncChatWeb](https://github.com/Bikram-ghuku/SyncChatWeb)
+1. 🎉 Merged PR [#18](https://github.com/Bikram-ghuku/ecommerce_client/pull/18) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+2. 🎉 Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku)
+3. 💪 Opened PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Bikram-ghuku)
+4. 🎉 Merged PR [#16](https://github.com/Bikram-ghuku/SyncChatWeb/pull/16) in [Bikram-ghuku/SyncChatWeb](https://github.com/Bikram-ghuku/SyncChatWeb)
+5. 💪 Opened PR [#16](https://github.com/Bikram-ghuku/SyncChatWeb/pull/16) in [Bikram-ghuku/SyncChatWeb](https://github.com/Bikram-ghuku/SyncChatWeb)
 <!--END_SECTION:activity-->
