@@ -36,9 +36,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/4) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-2. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/3) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-3. 💪 Opened PR [#7](https://github.com/kossiitkgp/git-jedi-trials/pull/7) in [kossiitkgp/git-jedi-trials](https://github.com/kossiitkgp/git-jedi-trials)
-4. 🎉 Merged PR [#2](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/2) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-5. 💪 Opened PR [#2](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/2) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+1. ❗ Opened issue [#8](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/8) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+2. ❗ Opened issue [#7](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/7) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+3. ❗ Opened issue [#6](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/6) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+4. ❗ Opened issue [#5](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/5) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+5. 🎉 Merged PR [#4](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/4) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
 <!--END_SECTION:activity-->
