@@ -36,9 +36,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0: Added Home Section and Featured Playlist Section](https://github.com/Bikram-ghuku/KTJ_task_1/releases/tag/v1.0) in [Bikram-ghuku/KTJ_task_1](https://github.com/Bikram-ghuku/KTJ_task_1)
-2. ❗ Opened issue [#8](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/8) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-3. ❗ Opened issue [#7](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/7) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-4. ❗ Opened issue [#6](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/6) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-5. ❗ Opened issue [#5](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/5) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+1. ❌ Closed PR [#9](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/9) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+2. 💪 Opened PR [#9](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/9) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+3. 🚀 Published release [v0.1.0 Beta](https://github.com/Bikram-ghuku/SyncChatServerGo/releases/tag/v0.1) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+4. 🚀 Published release [v1.0: Added Home Section and Featured Playlist Section](https://github.com/Bikram-ghuku/KTJ_task_1/releases/tag/v1.0) in [Bikram-ghuku/KTJ_task_1](https://github.com/Bikram-ghuku/KTJ_task_1)
+5. ❗ Opened issue [#8](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/8) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
 <!--END_SECTION:activity-->
