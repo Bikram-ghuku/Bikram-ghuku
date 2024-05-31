@@ -42,3 +42,8 @@
 4. 💪 Opened PR [#12](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/12) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
 5. 🎉 Merged PR [#11](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/11) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
 <!--END_SECTION:activity-->
+
+### WakaTime activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
