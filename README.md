@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0 LTS](https://github.com/Bikram-ghuku/KTJ_task_1/releases/tag/v3.0) in [Bikram-ghuku/KTJ_task_1](https://github.com/Bikram-ghuku/KTJ_task_1)
-2. 🚀 Published release [v0.1.1 Beta](https://github.com/Bikram-ghuku/SyncChatServerGo/releases/tag/v0.1.1) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-3. 🔒 Closed issue [#6](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/6) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-4. 🎉 Merged PR [#13](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/13) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-5. 💪 Opened PR [#13](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/13) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+1. 🔒 Closed issue [#14](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/14) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+2. 🎉 Merged PR [#15](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/15) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+3. 💪 Opened PR [#15](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/15) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+4. ❗ Opened issue [#14](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/14) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+5. 🚀 Published release [v3.0 LTS](https://github.com/Bikram-ghuku/KTJ_task_1/releases/tag/v3.0) in [Bikram-ghuku/KTJ_task_1](https://github.com/Bikram-ghuku/KTJ_task_1)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
