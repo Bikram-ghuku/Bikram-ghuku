@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/metakgp/gyfe/issues/2#issuecomment-2150105130) in [metakgp/gyfe](https://github.com/metakgp/gyfe)
-2. 🔒 Closed issue [#8](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/8) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-3. 🎉 Merged PR [#19](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/19) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-4. 💪 Opened PR [#19](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/19) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-5. 🔒 Closed issue [#17](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/17) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+1. ❗ Opened issue [#23](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/23) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+2. ❗ Opened issue [#22](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/22) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+3. ❗ Opened issue [#21](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/21) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+4. 🔒 Closed issue [#7](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/7) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+5. 🎉 Merged PR [#20](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/20) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
