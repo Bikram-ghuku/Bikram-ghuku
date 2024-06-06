@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/metakgp/kronos2.0/issues/1) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
-2. ❗ Opened issue [#23](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/23) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-3. ❗ Opened issue [#22](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/22) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-4. ❗ Opened issue [#21](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/21) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-5. 🔒 Closed issue [#7](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/7) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+1. ❗ Opened issue [#63](https://github.com/kossiitkgp/top-secret-stuff/issues/63) in [kossiitkgp/top-secret-stuff](https://github.com/kossiitkgp/top-secret-stuff)
+2. 🗣 Commented on [#2](https://github.com/metakgp/iitkgp-erp-auto-login/issues/2#issuecomment-2152470985) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+3. ❗ Opened issue [#2](https://github.com/metakgp/iitkgp-erp-auto-login/issues/2) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+4. ❗ Opened issue [#1](https://github.com/metakgp/kronos2.0/issues/1) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
+5. ❗ Opened issue [#23](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/23) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
