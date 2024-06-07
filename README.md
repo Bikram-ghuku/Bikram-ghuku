@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/metakgp/kronos2.0/pull/2#issuecomment-2155309217) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
-2. 💪 Opened PR [#2](https://github.com/metakgp/kronos2.0/pull/2) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
-3. ❗ Opened issue [#7](https://github.com/metakgp/gyfe/issues/7) in [metakgp/gyfe](https://github.com/metakgp/gyfe)
-4. ❗ Opened issue [#24](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/24) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-5. 🗣 Commented on [#63](https://github.com/kossiitkgp/top-secret-stuff/issues/63#issuecomment-2152649375) in [kossiitkgp/top-secret-stuff](https://github.com/kossiitkgp/top-secret-stuff)
+1. 🗣 Commented on [#4](https://github.com/metakgp/kronos2.0/issues/4#issuecomment-2155396766) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
+2. 🗣 Commented on [#4](https://github.com/metakgp/kronos2.0/issues/4#issuecomment-2155393495) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
+3. 🗣 Commented on [#2](https://github.com/metakgp/kronos2.0/pull/2#issuecomment-2155309217) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
+4. 💪 Opened PR [#2](https://github.com/metakgp/kronos2.0/pull/2) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
+5. ❗ Opened issue [#7](https://github.com/metakgp/gyfe/issues/7) in [metakgp/gyfe](https://github.com/metakgp/gyfe)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
