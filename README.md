@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/metakgp/chillzone/issues/64#issuecomment-2156137807) in [metakgp/chillzone](https://github.com/metakgp/chillzone)
-2. 🗣 Commented on [#4](https://github.com/metakgp/kronos2.0/issues/4#issuecomment-2155396766) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
-3. 🗣 Commented on [#4](https://github.com/metakgp/kronos2.0/issues/4#issuecomment-2155393495) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
-4. 🗣 Commented on [#2](https://github.com/metakgp/kronos2.0/pull/2#issuecomment-2155309217) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
-5. 💪 Opened PR [#2](https://github.com/metakgp/kronos2.0/pull/2) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
+1. ❌ Closed PR [#1](https://github.com/Bikram-ghuku/chillzone/pull/1) in [Bikram-ghuku/chillzone](https://github.com/Bikram-ghuku/chillzone)
+2. 💪 Opened PR [#1](https://github.com/Bikram-ghuku/chillzone/pull/1) in [Bikram-ghuku/chillzone](https://github.com/Bikram-ghuku/chillzone)
+3. 🗣 Commented on [#64](https://github.com/metakgp/chillzone/issues/64#issuecomment-2156137807) in [metakgp/chillzone](https://github.com/metakgp/chillzone)
+4. 🗣 Commented on [#4](https://github.com/metakgp/kronos2.0/issues/4#issuecomment-2155396766) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
+5. 🗣 Commented on [#4](https://github.com/metakgp/kronos2.0/issues/4#issuecomment-2155393495) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
