@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/metakgp/iitkgp-erp-auto-login/pull/4) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
-2. 🗣 Commented on [#133](https://github.com/metakgp/gyft/issues/133#issuecomment-2162385223) in [metakgp/gyft](https://github.com/metakgp/gyft)
-3. 🗣 Commented on [#133](https://github.com/metakgp/gyft/issues/133#issuecomment-2162237642) in [metakgp/gyft](https://github.com/metakgp/gyft)
-4. 🗣 Commented on [#61](https://github.com/metakgp/iqps-go/issues/61#issuecomment-2162108235) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-5. 🗣 Commented on [#2](https://github.com/metakgp/iitkgp-erp-auto-login/issues/2#issuecomment-2162106042) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+1. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/actions-testing/pull/3) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
+2. 💪 Opened PR [#3](https://github.com/Bikram-ghuku/actions-testing/pull/3) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
+3. 🎉 Merged PR [#2](https://github.com/Bikram-ghuku/actions-testing/pull/2) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
+4. 💪 Opened PR [#2](https://github.com/Bikram-ghuku/actions-testing/pull/2) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
+5. 🎉 Merged PR [#1](https://github.com/Bikram-ghuku/actions-testing/pull/1) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
