@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/actions-testing/pull/3) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
-2. 💪 Opened PR [#3](https://github.com/Bikram-ghuku/actions-testing/pull/3) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
-3. 🎉 Merged PR [#2](https://github.com/Bikram-ghuku/actions-testing/pull/2) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
-4. 💪 Opened PR [#2](https://github.com/Bikram-ghuku/actions-testing/pull/2) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
-5. 🎉 Merged PR [#1](https://github.com/Bikram-ghuku/actions-testing/pull/1) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
+1. 🗣 Commented on [#3](https://github.com/metakgp/iitkgp-erp-auto-login/issues/3#issuecomment-2163149601) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+2. 🗣 Commented on [#3](https://github.com/metakgp/iitkgp-erp-auto-login/issues/3#issuecomment-2163148365) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+3. 🗣 Commented on [#3](https://github.com/metakgp/iitkgp-erp-auto-login/issues/3#issuecomment-2163148184) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+4. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/actions-testing/pull/3) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
+5. 💪 Opened PR [#3](https://github.com/Bikram-ghuku/actions-testing/pull/3) in [Bikram-ghuku/actions-testing](https://github.com/Bikram-ghuku/actions-testing)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
