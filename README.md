@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/metakgp/iqps-go/issues/61#issuecomment-2162108235) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-2. 🗣 Commented on [#2](https://github.com/metakgp/iitkgp-erp-auto-login/issues/2#issuecomment-2162106042) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
-3. ❗ Opened issue [#66](https://github.com/kossiitkgp/opsa/issues/66) in [kossiitkgp/opsa](https://github.com/kossiitkgp/opsa)
-4. 🚀 Published release [v1.0 Major release](https://github.com/Bikram-ghuku/KTJ_task_2/releases/tag/v1.0) in [Bikram-ghuku/KTJ_task_2](https://github.com/Bikram-ghuku/KTJ_task_2)
-5. 💪 Opened PR [#77](https://github.com/metakgp/chillzone/pull/77) in [metakgp/chillzone](https://github.com/metakgp/chillzone)
+1. 🗣 Commented on [#133](https://github.com/metakgp/gyft/issues/133#issuecomment-2162237642) in [metakgp/gyft](https://github.com/metakgp/gyft)
+2. 🗣 Commented on [#61](https://github.com/metakgp/iqps-go/issues/61#issuecomment-2162108235) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
+3. 🗣 Commented on [#2](https://github.com/metakgp/iitkgp-erp-auto-login/issues/2#issuecomment-2162106042) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+4. ❗ Opened issue [#66](https://github.com/kossiitkgp/opsa/issues/66) in [kossiitkgp/opsa](https://github.com/kossiitkgp/opsa)
+5. 🚀 Published release [v1.0 Major release](https://github.com/Bikram-ghuku/KTJ_task_2/releases/tag/v1.0) in [Bikram-ghuku/KTJ_task_2](https://github.com/Bikram-ghuku/KTJ_task_2)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
