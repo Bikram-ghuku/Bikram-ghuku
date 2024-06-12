@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/metakgp/gyft/issues/133#issuecomment-2162385223) in [metakgp/gyft](https://github.com/metakgp/gyft)
-2. 🗣 Commented on [#133](https://github.com/metakgp/gyft/issues/133#issuecomment-2162237642) in [metakgp/gyft](https://github.com/metakgp/gyft)
-3. 🗣 Commented on [#61](https://github.com/metakgp/iqps-go/issues/61#issuecomment-2162108235) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-4. 🗣 Commented on [#2](https://github.com/metakgp/iitkgp-erp-auto-login/issues/2#issuecomment-2162106042) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
-5. ❗ Opened issue [#66](https://github.com/kossiitkgp/opsa/issues/66) in [kossiitkgp/opsa](https://github.com/kossiitkgp/opsa)
+1. 💪 Opened PR [#4](https://github.com/metakgp/iitkgp-erp-auto-login/pull/4) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+2. 🗣 Commented on [#133](https://github.com/metakgp/gyft/issues/133#issuecomment-2162385223) in [metakgp/gyft](https://github.com/metakgp/gyft)
+3. 🗣 Commented on [#133](https://github.com/metakgp/gyft/issues/133#issuecomment-2162237642) in [metakgp/gyft](https://github.com/metakgp/gyft)
+4. 🗣 Commented on [#61](https://github.com/metakgp/iqps-go/issues/61#issuecomment-2162108235) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
+5. 🗣 Commented on [#2](https://github.com/metakgp/iitkgp-erp-auto-login/issues/2#issuecomment-2162106042) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
