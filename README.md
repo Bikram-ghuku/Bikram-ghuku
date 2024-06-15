@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/metakgp/iqps-go/pull/72) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-2. 🗣 Commented on [#6](https://github.com/metakgp/iitkgp-erp-auto-login/pull/6#issuecomment-2165567277) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
-3. 💪 Opened PR [#6](https://github.com/metakgp/iitkgp-erp-auto-login/pull/6) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
-4. 🗣 Commented on [#3](https://github.com/metakgp/iitkgp-erp-auto-login/issues/3#issuecomment-2163149601) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
-5. 🗣 Commented on [#3](https://github.com/metakgp/iitkgp-erp-auto-login/issues/3#issuecomment-2163148365) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+1. 🗣 Commented on [#3](https://github.com/metakgp/naarad/issues/3#issuecomment-2169142825) in [metakgp/naarad](https://github.com/metakgp/naarad)
+2. 💪 Opened PR [#72](https://github.com/metakgp/iqps-go/pull/72) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
+3. 🗣 Commented on [#6](https://github.com/metakgp/iitkgp-erp-auto-login/pull/6#issuecomment-2165567277) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+4. 💪 Opened PR [#6](https://github.com/metakgp/iitkgp-erp-auto-login/pull/6) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+5. 🗣 Commented on [#3](https://github.com/metakgp/iitkgp-erp-auto-login/issues/3#issuecomment-2163149601) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
