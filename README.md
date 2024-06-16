@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/metakgp/iitkgp-erp-auto-login/issues/3#issuecomment-2171042270) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
-2. 🗣 Commented on [#5](https://github.com/metakgp/kronos2.0/pull/5#issuecomment-2169167326) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
-3. 🗣 Commented on [#3](https://github.com/metakgp/naarad/issues/3#issuecomment-2169142825) in [metakgp/naarad](https://github.com/metakgp/naarad)
-4. 💪 Opened PR [#72](https://github.com/metakgp/iqps-go/pull/72) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-5. 🗣 Commented on [#6](https://github.com/metakgp/iitkgp-erp-auto-login/pull/6#issuecomment-2165567277) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+1. 💪 Opened PR [#7](https://github.com/metakgp/iitkgp-erp-auto-login/pull/7) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+2. 🗣 Commented on [#3](https://github.com/metakgp/iitkgp-erp-auto-login/issues/3#issuecomment-2171042270) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+3. 🗣 Commented on [#5](https://github.com/metakgp/kronos2.0/pull/5#issuecomment-2169167326) in [metakgp/kronos2.0](https://github.com/metakgp/kronos2.0)
+4. 🗣 Commented on [#3](https://github.com/metakgp/naarad/issues/3#issuecomment-2169142825) in [metakgp/naarad](https://github.com/metakgp/naarad)
+5. 💪 Opened PR [#72](https://github.com/metakgp/iqps-go/pull/72) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
