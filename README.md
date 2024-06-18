@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/metakgp/chillzone/pull/82) in [metakgp/chillzone](https://github.com/metakgp/chillzone)
-2. 🗣 Commented on [#81](https://github.com/metakgp/chillzone/issues/81#issuecomment-2176458009) in [metakgp/chillzone](https://github.com/metakgp/chillzone)
-3. ❗ Opened issue [#81](https://github.com/metakgp/chillzone/issues/81) in [metakgp/chillzone](https://github.com/metakgp/chillzone)
-4. 🗣 Commented on [#7](https://github.com/metakgp/iitkgp-erp-auto-login/pull/7#issuecomment-2173149822) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
-5. 🗣 Commented on [#7](https://github.com/metakgp/iitkgp-erp-auto-login/pull/7#issuecomment-2171686814) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+1. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/chillzone/pull/3) in [Bikram-ghuku/chillzone](https://github.com/Bikram-ghuku/chillzone)
+2. 💪 Opened PR [#3](https://github.com/Bikram-ghuku/chillzone/pull/3) in [Bikram-ghuku/chillzone](https://github.com/Bikram-ghuku/chillzone)
+3. 🎉 Merged PR [#2](https://github.com/Bikram-ghuku/chillzone/pull/2) in [Bikram-ghuku/chillzone](https://github.com/Bikram-ghuku/chillzone)
+4. 💪 Opened PR [#2](https://github.com/Bikram-ghuku/chillzone/pull/2) in [Bikram-ghuku/chillzone](https://github.com/Bikram-ghuku/chillzone)
+5. ❌ Closed PR [#1](https://github.com/Bikram-ghuku/chillzone/pull/1) in [Bikram-ghuku/chillzone](https://github.com/Bikram-ghuku/chillzone)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
