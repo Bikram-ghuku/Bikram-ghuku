@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#81](https://github.com/metakgp/chillzone/issues/81) in [metakgp/chillzone](https://github.com/metakgp/chillzone)
-2. 🗣 Commented on [#7](https://github.com/metakgp/iitkgp-erp-auto-login/pull/7#issuecomment-2173149822) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
-3. 🗣 Commented on [#7](https://github.com/metakgp/iitkgp-erp-auto-login/pull/7#issuecomment-2171686814) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
-4. 🔒 Closed issue [#9](https://github.com/metakgp/kronos/issues/9) in [metakgp/kronos](https://github.com/metakgp/kronos)
-5. 🔓 Reopened issue [#9](https://github.com/metakgp/kronos/issues/9) in [metakgp/kronos](https://github.com/metakgp/kronos)
+1. 🗣 Commented on [#81](https://github.com/metakgp/chillzone/issues/81#issuecomment-2176458009) in [metakgp/chillzone](https://github.com/metakgp/chillzone)
+2. ❗ Opened issue [#81](https://github.com/metakgp/chillzone/issues/81) in [metakgp/chillzone](https://github.com/metakgp/chillzone)
+3. 🗣 Commented on [#7](https://github.com/metakgp/iitkgp-erp-auto-login/pull/7#issuecomment-2173149822) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+4. 🗣 Commented on [#7](https://github.com/metakgp/iitkgp-erp-auto-login/pull/7#issuecomment-2171686814) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+5. 🔒 Closed issue [#9](https://github.com/metakgp/kronos/issues/9) in [metakgp/kronos](https://github.com/metakgp/kronos)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
