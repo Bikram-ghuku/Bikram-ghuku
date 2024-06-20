@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/metakgp/naarad/issues/9#issuecomment-2180127286) in [metakgp/naarad](https://github.com/metakgp/naarad)
-2. 🗣 Commented on [#9](https://github.com/metakgp/naarad/issues/9#issuecomment-2179327344) in [metakgp/naarad](https://github.com/metakgp/naarad)
-3. 💪 Opened PR [#8](https://github.com/metakgp/iitkgp-erp-auto-login/pull/8) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
-4. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/chillzone/pull/3) in [Bikram-ghuku/chillzone](https://github.com/Bikram-ghuku/chillzone)
-5. 💪 Opened PR [#3](https://github.com/Bikram-ghuku/chillzone/pull/3) in [Bikram-ghuku/chillzone](https://github.com/Bikram-ghuku/chillzone)
+1. 💪 Opened PR [#10](https://github.com/metakgp/naarad/pull/10) in [metakgp/naarad](https://github.com/metakgp/naarad)
+2. 🗣 Commented on [#9](https://github.com/metakgp/naarad/issues/9#issuecomment-2180127286) in [metakgp/naarad](https://github.com/metakgp/naarad)
+3. 🗣 Commented on [#9](https://github.com/metakgp/naarad/issues/9#issuecomment-2179327344) in [metakgp/naarad](https://github.com/metakgp/naarad)
+4. 💪 Opened PR [#8](https://github.com/metakgp/iitkgp-erp-auto-login/pull/8) in [metakgp/iitkgp-erp-auto-login](https://github.com/metakgp/iitkgp-erp-auto-login)
+5. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/chillzone/pull/3) in [Bikram-ghuku/chillzone](https://github.com/Bikram-ghuku/chillzone)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
