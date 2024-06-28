@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/metakgp/naarad/pull/12) in [metakgp/naarad](https://github.com/metakgp/naarad)
-2. ❌ Closed PR [#11](https://github.com/metakgp/naarad/pull/11) in [metakgp/naarad](https://github.com/metakgp/naarad)
-3. 💪 Opened PR [#11](https://github.com/metakgp/naarad/pull/11) in [metakgp/naarad](https://github.com/metakgp/naarad)
-4. 💪 Opened PR [#16](https://github.com/metakgp/kronos/pull/16) in [metakgp/kronos](https://github.com/metakgp/kronos)
-5. 🗣 Commented on [#11](https://github.com/metakgp/kronos/issues/11#issuecomment-2187961888) in [metakgp/kronos](https://github.com/metakgp/kronos)
+1. 🗣 Commented on [#12](https://github.com/metakgp/naarad/pull/12#issuecomment-2197543273) in [metakgp/naarad](https://github.com/metakgp/naarad)
+2. 🗣 Commented on [#12](https://github.com/metakgp/naarad/pull/12#issuecomment-2197538154) in [metakgp/naarad](https://github.com/metakgp/naarad)
+3. 💪 Opened PR [#12](https://github.com/metakgp/naarad/pull/12) in [metakgp/naarad](https://github.com/metakgp/naarad)
+4. ❌ Closed PR [#11](https://github.com/metakgp/naarad/pull/11) in [metakgp/naarad](https://github.com/metakgp/naarad)
+5. 💪 Opened PR [#11](https://github.com/metakgp/naarad/pull/11) in [metakgp/naarad](https://github.com/metakgp/naarad)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
