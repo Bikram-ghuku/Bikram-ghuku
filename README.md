@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/metakgp/kronos/pull/16) in [metakgp/kronos](https://github.com/metakgp/kronos)
-2. 🗣 Commented on [#11](https://github.com/metakgp/kronos/issues/11#issuecomment-2187961888) in [metakgp/kronos](https://github.com/metakgp/kronos)
-3. 🗣 Commented on [#72](https://github.com/metakgp/iqps-go/pull/72#issuecomment-2186749404) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-4. 💪 Opened PR [#10](https://github.com/metakgp/naarad/pull/10) in [metakgp/naarad](https://github.com/metakgp/naarad)
-5. 🗣 Commented on [#9](https://github.com/metakgp/naarad/issues/9#issuecomment-2180127286) in [metakgp/naarad](https://github.com/metakgp/naarad)
+1. 💪 Opened PR [#12](https://github.com/metakgp/naarad/pull/12) in [metakgp/naarad](https://github.com/metakgp/naarad)
+2. ❌ Closed PR [#11](https://github.com/metakgp/naarad/pull/11) in [metakgp/naarad](https://github.com/metakgp/naarad)
+3. 💪 Opened PR [#11](https://github.com/metakgp/naarad/pull/11) in [metakgp/naarad](https://github.com/metakgp/naarad)
+4. 💪 Opened PR [#16](https://github.com/metakgp/kronos/pull/16) in [metakgp/kronos](https://github.com/metakgp/kronos)
+5. 🗣 Commented on [#11](https://github.com/metakgp/kronos/issues/11#issuecomment-2187961888) in [metakgp/kronos](https://github.com/metakgp/kronos)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
