@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/metakgp/naarad/pull/19) in [metakgp/naarad](https://github.com/metakgp/naarad)
-2. 🗣 Commented on [#18](https://github.com/metakgp/naarad/issues/18#issuecomment-2198444639) in [metakgp/naarad](https://github.com/metakgp/naarad)
-3. 💪 Opened PR [#17](https://github.com/metakgp/naarad/pull/17) in [metakgp/naarad](https://github.com/metakgp/naarad)
-4. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/naarad/pull/3) in [Bikram-ghuku/naarad](https://github.com/Bikram-ghuku/naarad)
-5. 🗣 Commented on [#12](https://github.com/metakgp/naarad/pull/12#issuecomment-2197588822) in [metakgp/naarad](https://github.com/metakgp/naarad)
+1. 💪 Opened PR [#25](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/25) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+2. 💪 Opened PR [#19](https://github.com/metakgp/naarad/pull/19) in [metakgp/naarad](https://github.com/metakgp/naarad)
+3. 🗣 Commented on [#18](https://github.com/metakgp/naarad/issues/18#issuecomment-2198444639) in [metakgp/naarad](https://github.com/metakgp/naarad)
+4. 💪 Opened PR [#17](https://github.com/metakgp/naarad/pull/17) in [metakgp/naarad](https://github.com/metakgp/naarad)
+5. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/naarad/pull/3) in [Bikram-ghuku/naarad](https://github.com/Bikram-ghuku/naarad)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
