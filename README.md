@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ChatSync](https://github.com/Bikram-ghuku/chatSyncWeb)
 
-- 🌱 I’m currently learning **Next.js, Convolutional Neural Networks**
+- 🌱 I’m currently learning **Next.js, GoLang**
 
 - 👯 I’m looking to collaborate on [Shapes](https://github.com/Bikram-ghuku/shapes)
 
