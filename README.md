@@ -37,11 +37,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Bikram-ghuku/heimdall/pull/4) in [Bikram-ghuku/heimdall](https://github.com/Bikram-ghuku/heimdall)
-2. 💪 Opened PR [#25](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/25) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-3. 💪 Opened PR [#19](https://github.com/metakgp/naarad/pull/19) in [metakgp/naarad](https://github.com/metakgp/naarad)
-4. 🗣 Commented on [#18](https://github.com/metakgp/naarad/issues/18#issuecomment-2198444639) in [metakgp/naarad](https://github.com/metakgp/naarad)
-5. 💪 Opened PR [#17](https://github.com/metakgp/naarad/pull/17) in [metakgp/naarad](https://github.com/metakgp/naarad)
+1. 🎉 Merged PR [#19](https://github.com/Bikram-ghuku/ecommerce_client/pull/19) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+2. 🎉 Merged PR [#4](https://github.com/Bikram-ghuku/heimdall/pull/4) in [Bikram-ghuku/heimdall](https://github.com/Bikram-ghuku/heimdall)
+3. 💪 Opened PR [#25](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/25) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+4. 💪 Opened PR [#19](https://github.com/metakgp/naarad/pull/19) in [metakgp/naarad](https://github.com/metakgp/naarad)
+5. 🗣 Commented on [#18](https://github.com/metakgp/naarad/issues/18#issuecomment-2198444639) in [metakgp/naarad](https://github.com/metakgp/naarad)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
