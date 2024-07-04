@@ -31,10 +31,3 @@
 4. 💪 Opened PR [#25](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/25) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
 5. 💪 Opened PR [#19](https://github.com/metakgp/naarad/pull/19) in [metakgp/naarad](https://github.com/metakgp/naarad)
 <!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## Reviews
-
-Make comments and get fetured here: <a href="https://testimonial.to/bikram-github-projects">Review</a>
