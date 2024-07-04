@@ -37,4 +37,4 @@
 
 ## Reviews
 
-Make comments and get fetured here: <a href="https://testimonial.to/github-projects">Review</a>
+Make comments and get fetured here: <a href="https://testimonial.to/bikram-github-projects">Review</a>
