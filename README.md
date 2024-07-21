@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/Bikram-ghuku/SyncChatWeb/pull/20) in [Bikram-ghuku/SyncChatWeb](https://github.com/Bikram-ghuku/SyncChatWeb)
-2. 💪 Opened PR [#20](https://github.com/Bikram-ghuku/SyncChatWeb/pull/20) in [Bikram-ghuku/SyncChatWeb](https://github.com/Bikram-ghuku/SyncChatWeb)
-3. 🎉 Merged PR [#9](https://github.com/Bikram-ghuku/SyncChatServer/pull/9) in [Bikram-ghuku/SyncChatServer](https://github.com/Bikram-ghuku/SyncChatServer)
-4. 💪 Opened PR [#9](https://github.com/Bikram-ghuku/SyncChatServer/pull/9) in [Bikram-ghuku/SyncChatServer](https://github.com/Bikram-ghuku/SyncChatServer)
-5. 🎉 Merged PR [#8](https://github.com/Bikram-ghuku/SyncChatServer/pull/8) in [Bikram-ghuku/SyncChatServer](https://github.com/Bikram-ghuku/SyncChatServer)
+1. 🎉 Merged PR [#4](https://github.com/Bikram-ghuku/iqps-go/pull/4) in [Bikram-ghuku/iqps-go](https://github.com/Bikram-ghuku/iqps-go)
+2. 🎉 Merged PR [#20](https://github.com/Bikram-ghuku/SyncChatWeb/pull/20) in [Bikram-ghuku/SyncChatWeb](https://github.com/Bikram-ghuku/SyncChatWeb)
+3. 💪 Opened PR [#20](https://github.com/Bikram-ghuku/SyncChatWeb/pull/20) in [Bikram-ghuku/SyncChatWeb](https://github.com/Bikram-ghuku/SyncChatWeb)
+4. 🎉 Merged PR [#9](https://github.com/Bikram-ghuku/SyncChatServer/pull/9) in [Bikram-ghuku/SyncChatServer](https://github.com/Bikram-ghuku/SyncChatServer)
+5. 💪 Opened PR [#9](https://github.com/Bikram-ghuku/SyncChatServer/pull/9) in [Bikram-ghuku/SyncChatServer](https://github.com/Bikram-ghuku/SyncChatServer)
 <!--END_SECTION:activity-->
