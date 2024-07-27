@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8209](https://github.com/coronasafe/care_fe/issues/8209#issuecomment-2253854828) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
-2. 💪 Opened PR [#74](https://github.com/metakgp/iqps-go/pull/74) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-3. 🎉 Merged PR [#4](https://github.com/Bikram-ghuku/iqps-go/pull/4) in [Bikram-ghuku/iqps-go](https://github.com/Bikram-ghuku/iqps-go)
-4. 🎉 Merged PR [#20](https://github.com/Bikram-ghuku/SyncChatWeb/pull/20) in [Bikram-ghuku/SyncChatWeb](https://github.com/Bikram-ghuku/SyncChatWeb)
-5. 💪 Opened PR [#20](https://github.com/Bikram-ghuku/SyncChatWeb/pull/20) in [Bikram-ghuku/SyncChatWeb](https://github.com/Bikram-ghuku/SyncChatWeb)
+1. ❗ Opened issue [#26](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/26) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+2. ❌ Closed PR [#25](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/25) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+3. 🗣 Commented on [#8209](https://github.com/coronasafe/care_fe/issues/8209#issuecomment-2253854828) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+4. 💪 Opened PR [#74](https://github.com/metakgp/iqps-go/pull/74) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
+5. 🎉 Merged PR [#4](https://github.com/Bikram-ghuku/iqps-go/pull/4) in [Bikram-ghuku/iqps-go](https://github.com/Bikram-ghuku/iqps-go)
 <!--END_SECTION:activity-->
