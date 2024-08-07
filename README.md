@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Bikram-ghuku/naarad/pull/4) in [Bikram-ghuku/naarad](https://github.com/Bikram-ghuku/naarad)
-2. 🗣 Commented on [#23](https://github.com/metakgp/naarad/issues/23#issuecomment-2265314808) in [metakgp/naarad](https://github.com/metakgp/naarad)
-3. 🗣 Commented on [#23](https://github.com/metakgp/naarad/issues/23#issuecomment-2261986409) in [metakgp/naarad](https://github.com/metakgp/naarad)
-4. ❗ Opened issue [#26](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/26) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
-5. ❌ Closed PR [#25](https://github.com/Bikram-ghuku/SyncChatServerGo/pull/25) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+1. 🗣 Commented on [#23](https://github.com/metakgp/naarad/issues/23#issuecomment-2274263317) in [metakgp/naarad](https://github.com/metakgp/naarad)
+2. 🎉 Merged PR [#4](https://github.com/Bikram-ghuku/naarad/pull/4) in [Bikram-ghuku/naarad](https://github.com/Bikram-ghuku/naarad)
+3. 🗣 Commented on [#23](https://github.com/metakgp/naarad/issues/23#issuecomment-2265314808) in [metakgp/naarad](https://github.com/metakgp/naarad)
+4. 🗣 Commented on [#23](https://github.com/metakgp/naarad/issues/23#issuecomment-2261986409) in [metakgp/naarad](https://github.com/metakgp/naarad)
+5. ❗ Opened issue [#26](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/26) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
 <!--END_SECTION:activity-->
