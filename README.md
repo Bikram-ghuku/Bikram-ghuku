@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/kossiitkgp/events/pull/13) in [kossiitkgp/events](https://github.com/kossiitkgp/events)
-2. 🗣 Commented on [#8209](https://github.com/coronasafe/care_fe/issues/8209#issuecomment-2275671678) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
-3. 🗣 Commented on [#23](https://github.com/metakgp/naarad/issues/23#issuecomment-2274263317) in [metakgp/naarad](https://github.com/metakgp/naarad)
-4. 🎉 Merged PR [#4](https://github.com/Bikram-ghuku/naarad/pull/4) in [Bikram-ghuku/naarad](https://github.com/Bikram-ghuku/naarad)
-5. 🗣 Commented on [#23](https://github.com/metakgp/naarad/issues/23#issuecomment-2265314808) in [metakgp/naarad](https://github.com/metakgp/naarad)
+1. 🗣 Commented on [#13](https://github.com/kossiitkgp/events/pull/13#issuecomment-2298850413) in [kossiitkgp/events](https://github.com/kossiitkgp/events)
+2. 💪 Opened PR [#13](https://github.com/kossiitkgp/events/pull/13) in [kossiitkgp/events](https://github.com/kossiitkgp/events)
+3. 🗣 Commented on [#8209](https://github.com/coronasafe/care_fe/issues/8209#issuecomment-2275671678) in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)
+4. 🗣 Commented on [#23](https://github.com/metakgp/naarad/issues/23#issuecomment-2274263317) in [metakgp/naarad](https://github.com/metakgp/naarad)
+5. 🎉 Merged PR [#4](https://github.com/Bikram-ghuku/naarad/pull/4) in [Bikram-ghuku/naarad](https://github.com/Bikram-ghuku/naarad)
 <!--END_SECTION:activity-->
