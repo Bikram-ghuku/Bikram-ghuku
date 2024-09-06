@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/metakgp/naarad/issues/23#issuecomment-2322894494) in [metakgp/naarad](https://github.com/metakgp/naarad)
-2. 🗣 Commented on [#22](https://github.com/kossiitkgp/sandbox/pull/22#issuecomment-2322893003) in [kossiitkgp/sandbox](https://github.com/kossiitkgp/sandbox)
-3. 🗣 Commented on [#23](https://github.com/kossiitkgp/sandbox/pull/23#issuecomment-2322892979) in [kossiitkgp/sandbox](https://github.com/kossiitkgp/sandbox)
-4. 🗣 Commented on [#24](https://github.com/kossiitkgp/sandbox/pull/24#issuecomment-2322892939) in [kossiitkgp/sandbox](https://github.com/kossiitkgp/sandbox)
-5. 🗣 Commented on [#28](https://github.com/kossiitkgp/sandbox/pull/28#issuecomment-2322892889) in [kossiitkgp/sandbox](https://github.com/kossiitkgp/sandbox)
+1. 🎉 Merged PR [#1](https://github.com/Bikram-ghuku/HotelManagementSystem/pull/1) in [Bikram-ghuku/HotelManagementSystem](https://github.com/Bikram-ghuku/HotelManagementSystem)
+2. 🗣 Commented on [#23](https://github.com/metakgp/naarad/issues/23#issuecomment-2322894494) in [metakgp/naarad](https://github.com/metakgp/naarad)
+3. 🗣 Commented on [#22](https://github.com/kossiitkgp/sandbox/pull/22#issuecomment-2322893003) in [kossiitkgp/sandbox](https://github.com/kossiitkgp/sandbox)
+4. 🗣 Commented on [#23](https://github.com/kossiitkgp/sandbox/pull/23#issuecomment-2322892979) in [kossiitkgp/sandbox](https://github.com/kossiitkgp/sandbox)
+5. 🗣 Commented on [#24](https://github.com/kossiitkgp/sandbox/pull/24#issuecomment-2322892939) in [kossiitkgp/sandbox](https://github.com/kossiitkgp/sandbox)
 <!--END_SECTION:activity-->
