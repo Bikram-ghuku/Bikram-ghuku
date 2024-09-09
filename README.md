@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Bikram-ghuku/HotelManagementSystem/pull/1) in [Bikram-ghuku/HotelManagementSystem](https://github.com/Bikram-ghuku/HotelManagementSystem)
-2. 🗣 Commented on [#23](https://github.com/metakgp/naarad/issues/23#issuecomment-2322894494) in [metakgp/naarad](https://github.com/metakgp/naarad)
-3. 🗣 Commented on [#22](https://github.com/kossiitkgp/sandbox/pull/22#issuecomment-2322893003) in [kossiitkgp/sandbox](https://github.com/kossiitkgp/sandbox)
-4. 🗣 Commented on [#23](https://github.com/kossiitkgp/sandbox/pull/23#issuecomment-2322892979) in [kossiitkgp/sandbox](https://github.com/kossiitkgp/sandbox)
-5. 🗣 Commented on [#24](https://github.com/kossiitkgp/sandbox/pull/24#issuecomment-2322892939) in [kossiitkgp/sandbox](https://github.com/kossiitkgp/sandbox)
+1. ❗ Opened issue [#28](https://github.com/Bikram-ghuku/ecommerce_client/issues/28) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+2. ❗ Opened issue [#27](https://github.com/Bikram-ghuku/ecommerce_client/issues/27) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+3. ❗ Opened issue [#26](https://github.com/Bikram-ghuku/ecommerce_client/issues/26) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+4. 🔒 Closed issue [#23](https://github.com/Bikram-ghuku/ecommerce_client/issues/23) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+5. 🔒 Closed issue [#16](https://github.com/Bikram-ghuku/ecommerce_client/issues/16) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
 <!--END_SECTION:activity-->
