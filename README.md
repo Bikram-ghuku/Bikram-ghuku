@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28](https://github.com/Bikram-ghuku/ecommerce_client/issues/28) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
-2. ❗ Opened issue [#27](https://github.com/Bikram-ghuku/ecommerce_client/issues/27) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
-3. ❗ Opened issue [#26](https://github.com/Bikram-ghuku/ecommerce_client/issues/26) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
-4. 🔒 Closed issue [#23](https://github.com/Bikram-ghuku/ecommerce_client/issues/23) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
-5. 🔒 Closed issue [#16](https://github.com/Bikram-ghuku/ecommerce_client/issues/16) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+1. 💪 Opened PR [#90](https://github.com/metakgp/iqps-go/pull/90) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
+2. ❗ Opened issue [#28](https://github.com/Bikram-ghuku/ecommerce_client/issues/28) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+3. ❗ Opened issue [#27](https://github.com/Bikram-ghuku/ecommerce_client/issues/27) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+4. ❗ Opened issue [#26](https://github.com/Bikram-ghuku/ecommerce_client/issues/26) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+5. 🔒 Closed issue [#23](https://github.com/Bikram-ghuku/ecommerce_client/issues/23) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
 <!--END_SECTION:activity-->
