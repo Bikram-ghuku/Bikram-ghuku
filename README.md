@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com/metakgp/iqps-go/pull/94) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-2. 🗣 Commented on [#86](https://github.com/metakgp/iqps-go/issues/86#issuecomment-2374939550) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-3. 🎉 Merged PR [#17](https://github.com/Bikram-ghuku/iqps-go/pull/17) in [Bikram-ghuku/iqps-go](https://github.com/Bikram-ghuku/iqps-go)
-4. 💪 Opened PR [#90](https://github.com/metakgp/iqps-go/pull/90) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-5. ❗ Opened issue [#28](https://github.com/Bikram-ghuku/ecommerce_client/issues/28) in [Bikram-ghuku/ecommerce_client](https://github.com/Bikram-ghuku/ecommerce_client)
+1. 🗣 Commented on [#143](https://github.com/metakgp/gyft/issues/143#issuecomment-2386260115) in [metakgp/gyft](https://github.com/metakgp/gyft)
+2. 💪 Opened PR [#94](https://github.com/metakgp/iqps-go/pull/94) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
+3. 🗣 Commented on [#86](https://github.com/metakgp/iqps-go/issues/86#issuecomment-2374939550) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
+4. 🎉 Merged PR [#17](https://github.com/Bikram-ghuku/iqps-go/pull/17) in [Bikram-ghuku/iqps-go](https://github.com/Bikram-ghuku/iqps-go)
+5. 💪 Opened PR [#90](https://github.com/metakgp/iqps-go/pull/90) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
 <!--END_SECTION:activity-->
