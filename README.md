@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/metakgp/gyft/issues/143#issuecomment-2386296080) in [metakgp/gyft](https://github.com/metakgp/gyft)
-2. 🗣 Commented on [#143](https://github.com/metakgp/gyft/issues/143#issuecomment-2386260115) in [metakgp/gyft](https://github.com/metakgp/gyft)
-3. 💪 Opened PR [#94](https://github.com/metakgp/iqps-go/pull/94) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-4. 🗣 Commented on [#86](https://github.com/metakgp/iqps-go/issues/86#issuecomment-2374939550) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
-5. 🎉 Merged PR [#17](https://github.com/Bikram-ghuku/iqps-go/pull/17) in [Bikram-ghuku/iqps-go](https://github.com/Bikram-ghuku/iqps-go)
+1. 💪 Opened PR [#1](https://github.com/metakgp/mfins/pull/1) in [metakgp/mfins](https://github.com/metakgp/mfins)
+2. 🗣 Commented on [#143](https://github.com/metakgp/gyft/issues/143#issuecomment-2386296080) in [metakgp/gyft](https://github.com/metakgp/gyft)
+3. 🗣 Commented on [#143](https://github.com/metakgp/gyft/issues/143#issuecomment-2386260115) in [metakgp/gyft](https://github.com/metakgp/gyft)
+4. 💪 Opened PR [#94](https://github.com/metakgp/iqps-go/pull/94) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
+5. 🗣 Commented on [#86](https://github.com/metakgp/iqps-go/issues/86#issuecomment-2374939550) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
 <!--END_SECTION:activity-->
