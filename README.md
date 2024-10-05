@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/metakgp/design/pull/4) in [metakgp/design](https://github.com/metakgp/design)
-2. 💪 Opened PR [#1](https://github.com/metakgp/mfins/pull/1) in [metakgp/mfins](https://github.com/metakgp/mfins)
-3. 🗣 Commented on [#143](https://github.com/metakgp/gyft/issues/143#issuecomment-2386296080) in [metakgp/gyft](https://github.com/metakgp/gyft)
-4. 🗣 Commented on [#143](https://github.com/metakgp/gyft/issues/143#issuecomment-2386260115) in [metakgp/gyft](https://github.com/metakgp/gyft)
-5. 💪 Opened PR [#94](https://github.com/metakgp/iqps-go/pull/94) in [metakgp/iqps-go](https://github.com/metakgp/iqps-go)
+1. 🎉 Merged PR [#5](https://github.com/Bikram-ghuku/naarad/pull/5) in [Bikram-ghuku/naarad](https://github.com/Bikram-ghuku/naarad)
+2. 💪 Opened PR [#4](https://github.com/metakgp/design/pull/4) in [metakgp/design](https://github.com/metakgp/design)
+3. 💪 Opened PR [#1](https://github.com/metakgp/mfins/pull/1) in [metakgp/mfins](https://github.com/metakgp/mfins)
+4. 🗣 Commented on [#143](https://github.com/metakgp/gyft/issues/143#issuecomment-2386296080) in [metakgp/gyft](https://github.com/metakgp/gyft)
+5. 🗣 Commented on [#143](https://github.com/metakgp/gyft/issues/143#issuecomment-2386260115) in [metakgp/gyft](https://github.com/metakgp/gyft)
 <!--END_SECTION:activity-->
