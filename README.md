@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#239](https://github.com/kossiitkgp/KWoC-Frontend/issues/239) in [kossiitkgp/KWoC-Frontend](https://github.com/kossiitkgp/KWoC-Frontend)
-2. 🗣 Commented on [#1](https://github.com/metakgp/mfins/pull/1#issuecomment-2395413125) in [metakgp/mfins](https://github.com/metakgp/mfins)
-3. 🎉 Merged PR [#5](https://github.com/Bikram-ghuku/naarad/pull/5) in [Bikram-ghuku/naarad](https://github.com/Bikram-ghuku/naarad)
-4. 💪 Opened PR [#4](https://github.com/metakgp/design/pull/4) in [metakgp/design](https://github.com/metakgp/design)
-5. 💪 Opened PR [#1](https://github.com/metakgp/mfins/pull/1) in [metakgp/mfins](https://github.com/metakgp/mfins)
+1. 💪 Opened PR [#194](https://github.com/kossiitkgp/KWoC-Backend/pull/194) in [kossiitkgp/KWoC-Backend](https://github.com/kossiitkgp/KWoC-Backend)
+2. ❗ Opened issue [#239](https://github.com/kossiitkgp/KWoC-Frontend/issues/239) in [kossiitkgp/KWoC-Frontend](https://github.com/kossiitkgp/KWoC-Frontend)
+3. 🗣 Commented on [#1](https://github.com/metakgp/mfins/pull/1#issuecomment-2395413125) in [metakgp/mfins](https://github.com/metakgp/mfins)
+4. 🎉 Merged PR [#5](https://github.com/Bikram-ghuku/naarad/pull/5) in [Bikram-ghuku/naarad](https://github.com/Bikram-ghuku/naarad)
+5. 💪 Opened PR [#4](https://github.com/metakgp/design/pull/4) in [metakgp/design](https://github.com/metakgp/design)
 <!--END_SECTION:activity-->
