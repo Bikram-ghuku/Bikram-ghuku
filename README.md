@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#248](https://github.com/kossiitkgp/KWoC-Frontend/pull/248) in [kossiitkgp/KWoC-Frontend](https://github.com/kossiitkgp/KWoC-Frontend)
-2. 💪 Opened PR [#194](https://github.com/kossiitkgp/KWoC-Backend/pull/194) in [kossiitkgp/KWoC-Backend](https://github.com/kossiitkgp/KWoC-Backend)
-3. ❗ Opened issue [#239](https://github.com/kossiitkgp/KWoC-Frontend/issues/239) in [kossiitkgp/KWoC-Frontend](https://github.com/kossiitkgp/KWoC-Frontend)
-4. 🗣 Commented on [#1](https://github.com/metakgp/mfins/pull/1#issuecomment-2395413125) in [metakgp/mfins](https://github.com/metakgp/mfins)
-5. 🎉 Merged PR [#5](https://github.com/Bikram-ghuku/naarad/pull/5) in [Bikram-ghuku/naarad](https://github.com/Bikram-ghuku/naarad)
+1. 🔒 Closed issue [#26](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/26) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+2. 🔒 Closed issue [#21](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/21) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+3. 🔒 Closed issue [#22](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/22) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+4. 🔒 Closed issue [#23](https://github.com/Bikram-ghuku/SyncChatServerGo/issues/23) in [Bikram-ghuku/SyncChatServerGo](https://github.com/Bikram-ghuku/SyncChatServerGo)
+5. 💪 Opened PR [#248](https://github.com/kossiitkgp/KWoC-Frontend/pull/248) in [kossiitkgp/KWoC-Frontend](https://github.com/kossiitkgp/KWoC-Frontend)
 <!--END_SECTION:activity-->
