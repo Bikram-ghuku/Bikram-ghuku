@@ -25,7 +25,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/OneBusAway/waystation/issues/33#issuecomment-2746751620) in [OneBusAway/waystation](https://github.com/OneBusAway/waystation)
+1. 💪 Opened PR [#3](https://github.com/Faizan2005/KGPVerse/pull/3) in [Faizan2005/KGPVerse](https://github.com/Faizan2005/KGPVerse)
 2. 💪 Opened PR [#223](https://github.com/OneBusAway/wayfinder/pull/223) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
 3. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/waystation/pull/3) in [Bikram-ghuku/waystation](https://github.com/Bikram-ghuku/waystation)
 4. 🗣 Commented on [#40](https://github.com/OneBusAway/watchdog/pull/40#issuecomment-2733427402) in [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
