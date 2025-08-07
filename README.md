@@ -26,7 +26,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/metakgp/hermes/issues/18#issuecomment-3095532000) in [metakgp/hermes](https://github.com/metakgp/hermes)
-2. 💪 Opened PR [#6](https://github.com/metakgp/design/pull/6) in [metakgp/design](https://github.com/metakgp/design)
+2. 💪 Opened PR [#6](undefined) in [metakgp/design](https://github.com/metakgp/design)
 3. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/waystation/pull/3) in [Bikram-ghuku/waystation](https://github.com/Bikram-ghuku/waystation)
 4. 🗣 Commented on [#40](https://github.com/OneBusAway/watchdog/pull/40#issuecomment-2733427402) in [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
 5. 🗣 Commented on [#8](https://github.com/OneBusAway/waystation/issues/8#issuecomment-2731573281) in [OneBusAway/waystation](https://github.com/OneBusAway/waystation)
