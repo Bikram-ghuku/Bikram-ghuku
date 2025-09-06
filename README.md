@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/OneBusAway/maglev/issues/46#issuecomment-3211040989) in [OneBusAway/maglev](https://github.com/OneBusAway/maglev)
-2. 🗣 Commented on [#46](https://github.com/OneBusAway/maglev/issues/46#issuecomment-3197917762) in [OneBusAway/maglev](https://github.com/OneBusAway/maglev)
-3. 🎉 Merged PR [#3](https://github.com/Bikram-ghuku/waystation/pull/3) in [Bikram-ghuku/waystation](https://github.com/Bikram-ghuku/waystation)
+1. ❗ Opened issue [#5](https://github.com/metakgp/iitkgp-erp-login-go/issues/5) in [metakgp/iitkgp-erp-login-go](https://github.com/metakgp/iitkgp-erp-login-go)
+2. 🗣 Commented on [#46](https://github.com/OneBusAway/maglev/issues/46#issuecomment-3211040989) in [OneBusAway/maglev](https://github.com/OneBusAway/maglev)
+3. 🗣 Commented on [#46](https://github.com/OneBusAway/maglev/issues/46#issuecomment-3197917762) in [OneBusAway/maglev](https://github.com/OneBusAway/maglev)
 4. 🗣 Commented on [#40](https://github.com/OneBusAway/watchdog/pull/40#issuecomment-2733427402) in [OneBusAway/watchdog](https://github.com/OneBusAway/watchdog)
 5. 🗣 Commented on [#8](https://github.com/OneBusAway/waystation/issues/8#issuecomment-2731573281) in [OneBusAway/waystation](https://github.com/OneBusAway/waystation)
 <!--END_SECTION:activity-->
