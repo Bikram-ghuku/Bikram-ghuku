@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/metakgp/naarad/pull/32) in [metakgp/naarad](https://github.com/metakgp/naarad)
-2. 🗣 Commented on [#100](https://github.com/OneBusAway/maglev/issues/100#issuecomment-3289493985) in [OneBusAway/maglev](https://github.com/OneBusAway/maglev)
-3. ❗ Opened issue [#5](https://github.com/metakgp/iitkgp-erp-login-go/issues/5) in [metakgp/iitkgp-erp-login-go](https://github.com/metakgp/iitkgp-erp-login-go)
-4. 🗣 Commented on [#46](https://github.com/OneBusAway/maglev/issues/46#issuecomment-3197917762) in [OneBusAway/maglev](https://github.com/OneBusAway/maglev)
+1. 💪 Opened PR [#6](https://github.com/metakgp/iitkgp-erp-login-go/pull/6) in [metakgp/iitkgp-erp-login-go](https://github.com/metakgp/iitkgp-erp-login-go)
+2. 💪 Opened PR [#32](https://github.com/metakgp/naarad/pull/32) in [metakgp/naarad](https://github.com/metakgp/naarad)
+3. 🗣 Commented on [#100](https://github.com/OneBusAway/maglev/issues/100#issuecomment-3289493985) in [OneBusAway/maglev](https://github.com/OneBusAway/maglev)
+4. ❗ Opened issue [#5](https://github.com/metakgp/iitkgp-erp-login-go/issues/5) in [metakgp/iitkgp-erp-login-go](https://github.com/metakgp/iitkgp-erp-login-go)
 5. 🗣 Commented on [#8](https://github.com/OneBusAway/waystation/issues/8#issuecomment-2731573281) in [OneBusAway/waystation](https://github.com/OneBusAway/waystation)
 <!--END_SECTION:activity-->
