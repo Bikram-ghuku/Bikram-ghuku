@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/metakgp/mfins/pull/2) in [metakgp/mfins](https://github.com/metakgp/mfins)
-2. 🎉 Merged PR [#1](https://github.com/metakgp/mfins/pull/1) in [metakgp/mfins](https://github.com/metakgp/mfins)
-3. 💪 Opened PR [#6](https://github.com/metakgp/iitkgp-erp-login-go/pull/6) in [metakgp/iitkgp-erp-login-go](https://github.com/metakgp/iitkgp-erp-login-go)
-4. 💪 Opened PR [#32](https://github.com/metakgp/naarad/pull/32) in [metakgp/naarad](https://github.com/metakgp/naarad)
-5. 🗣 Commented on [#100](https://github.com/OneBusAway/maglev/issues/100#issuecomment-3289493985) in [OneBusAway/maglev](https://github.com/OneBusAway/maglev)
+1. 🎉 Merged PR [#2](https://github.com/metakgp/mfins/pull/2) in [metakgp/mfins](https://github.com/metakgp/mfins)
+2. 💪 Opened PR [#2](https://github.com/metakgp/mfins/pull/2) in [metakgp/mfins](https://github.com/metakgp/mfins)
+3. 🎉 Merged PR [#1](https://github.com/metakgp/mfins/pull/1) in [metakgp/mfins](https://github.com/metakgp/mfins)
+4. 💪 Opened PR [#6](https://github.com/metakgp/iitkgp-erp-login-go/pull/6) in [metakgp/iitkgp-erp-login-go](https://github.com/metakgp/iitkgp-erp-login-go)
+5. 💪 Opened PR [#32](https://github.com/metakgp/naarad/pull/32) in [metakgp/naarad](https://github.com/metakgp/naarad)
 <!--END_SECTION:activity-->
