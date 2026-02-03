@@ -25,7 +25,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [metakgp/mfins](https://github.com/metakgp/mfins)
+1. 🗣 Commented on [#14](https://github.com/kubeflow/docs-agent/issues/14#issuecomment-3840938862) in [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent)
 2. 💪 Opened PR [#6](undefined) in [metakgp/iitkgp-erp-login-go](https://github.com/metakgp/iitkgp-erp-login-go)
 3. 💪 Opened PR [#32](undefined) in [metakgp/naarad](https://github.com/metakgp/naarad)
 4. 🗣 Commented on [#100](https://github.com/OneBusAway/maglev/issues/100#issuecomment-3289493985) in [OneBusAway/maglev](https://github.com/OneBusAway/maglev)
