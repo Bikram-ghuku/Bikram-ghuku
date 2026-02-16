@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/kubeflow/docs-agent/issues/32#issuecomment-3904313398) in [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent)
-2. ❌ Closed PR [#25](https://github.com/kubeflow/docs-agent/pull/25) in [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent)
-3. 💪 Opened PR [#25](https://github.com/kubeflow/docs-agent/pull/25) in [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent)
-4. 🗣 Commented on [#14](https://github.com/kubeflow/docs-agent/issues/14#issuecomment-3840938862) in [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent)
-5. 💪 Opened PR [#32](https://github.com/metakgp/naarad/pull/32) in [metakgp/naarad](https://github.com/metakgp/naarad)
+1. 🗣 Commented on [#11](https://github.com/metakgp/maintos/issues/11#issuecomment-3909754871) in [metakgp/maintos](https://github.com/metakgp/maintos)
+2. 🗣 Commented on [#32](https://github.com/kubeflow/docs-agent/issues/32#issuecomment-3904313398) in [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent)
+3. ❌ Closed PR [#25](https://github.com/kubeflow/docs-agent/pull/25) in [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent)
+4. 💪 Opened PR [#25](https://github.com/kubeflow/docs-agent/pull/25) in [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent)
+5. 🗣 Commented on [#14](https://github.com/kubeflow/docs-agent/issues/14#issuecomment-3840938862) in [kubeflow/docs-agent](https://github.com/kubeflow/docs-agent)
 <!--END_SECTION:activity-->
