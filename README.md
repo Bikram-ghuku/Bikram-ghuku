@@ -19,7 +19,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bikram-ghuku&theme=tokyonight&show_icons=true">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bikram-ghuku&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ### :zap: Recent Activity
