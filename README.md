@@ -25,9 +25,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#349](https://github.com/OneBusAway/wayfinder/pull/349) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
-2. 🗣 Commented on [#353](https://github.com/OneBusAway/wayfinder/issues/353#issuecomment-3954308185) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
-3. 🗣 Commented on [#349](https://github.com/OneBusAway/wayfinder/pull/349#issuecomment-3954297555) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
-4. 💪 Opened PR [#349](https://github.com/OneBusAway/wayfinder/pull/349) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
-5. 🎉 Merged PR [#431](https://github.com/OneBusAway/maglev/pull/431) in [OneBusAway/maglev](https://github.com/OneBusAway/maglev)
+1. 🗣 Commented on [#353](https://github.com/OneBusAway/wayfinder/issues/353#issuecomment-4060696802) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
+2. 🎉 Merged PR [#349](https://github.com/OneBusAway/wayfinder/pull/349) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
+3. 🗣 Commented on [#353](https://github.com/OneBusAway/wayfinder/issues/353#issuecomment-3954308185) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
+4. 🗣 Commented on [#349](https://github.com/OneBusAway/wayfinder/pull/349#issuecomment-3954297555) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
+5. 💪 Opened PR [#349](https://github.com/OneBusAway/wayfinder/pull/349) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
 <!--END_SECTION:activity-->
