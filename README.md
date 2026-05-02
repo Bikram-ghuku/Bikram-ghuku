@@ -25,8 +25,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/OneBusAway/waystation/issues/67#issuecomment-4360936261) in [OneBusAway/waystation](https://github.com/OneBusAway/waystation)
-2. 🎉 Merged PR [#349](https://github.com/OneBusAway/wayfinder/pull/349) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
+1. 💪 Opened PR [#68](https://github.com/OneBusAway/waystation/pull/68) in [OneBusAway/waystation](https://github.com/OneBusAway/waystation)
+2. 🗣 Commented on [#67](https://github.com/OneBusAway/waystation/issues/67#issuecomment-4360936261) in [OneBusAway/waystation](https://github.com/OneBusAway/waystation)
 3. 🗣 Commented on [#353](https://github.com/OneBusAway/wayfinder/issues/353#issuecomment-3954308185) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
 4. 🗣 Commented on [#349](https://github.com/OneBusAway/wayfinder/pull/349#issuecomment-3954297555) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
 5. 💪 Opened PR [#349](https://github.com/OneBusAway/wayfinder/pull/349) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
